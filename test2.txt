@@ -1,3 +1,7 @@
 hello, test2
 
 I was committed, change it again
+
+add new html file
+
+try to git add*.txt
