@@ -1,2 +1,4 @@
 git branch brachname,
 git checkout branchname: switch to new branch
+
+new change
